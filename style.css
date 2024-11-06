@@ -1,0 +1,58 @@
+.sec1{
+    background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    background-size: cover;
+    height: 100vh;    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d3dff0;
+  }
+
+  
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #d3dff0;
+  }
+  
+  .active {
+    background-color: #d3dff0;
+  }
+
+  .top{
+    padding-top:15%;
+  }
+
+  .about{
+    text-align: center;
+    padding: 15%;
+  }
+
+  .skills{
+    text-align: left;
+    padding: 18%;
+    background-color: #F5F5F5;
+}
+
+
+
+
+  .stats{
+    background-color: aqua;
+
+  }
